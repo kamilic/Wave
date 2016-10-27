@@ -63,7 +63,7 @@ API
 Settings
 --------
 创建W实例所需的一个对象,其所有值包括：
-```json
+```javaScript
 {
     id : "coolboy", //String
     // id 必须输入，用于获得canvasElement的值，假如canvasElement不存在，会抛出一个错误。
