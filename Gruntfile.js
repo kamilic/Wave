@@ -44,5 +44,5 @@ module.exports = function (grunt) {
     grunt.registerTask('dev', ['jshint:dev', 'watch:dev']);
     grunt.registerTask('build', ['copy:build', 'jshint:dev', 'uglify:build']);
 
-};
+};66666
 
